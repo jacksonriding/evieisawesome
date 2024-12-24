@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/evieisawesome/static/css/main.66ae3669.css",
+    "main.js": "/evieisawesome/static/js/main.ef5b34fc.js",
+    "index.html": "/evieisawesome/index.html",
+    "main.66ae3669.css.map": "/evieisawesome/static/css/main.66ae3669.css.map",
+    "main.ef5b34fc.js.map": "/evieisawesome/static/js/main.ef5b34fc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66ae3669.css",
+    "static/js/main.ef5b34fc.js"
+  ]
+}
